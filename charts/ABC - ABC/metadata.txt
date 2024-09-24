@@ -1,0 +1,7 @@
+1, song_name "ABC";
+2, artist_name "ABC";
+3, difficulty "VERY EASY";
+4, bpm 180;
+5, audio_start_offset 0;
+6, note_count 25;
+7, end_of_metadata 0;

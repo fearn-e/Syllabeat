@@ -1,0 +1,7 @@
+1, song_name "TRY THE WINE";
+2, artist_name "PATRICIA TAXXON";
+3, difficulty "HARD";
+4, bpm 128;
+5, audio_start_offset 0;
+6, note_count 613;
+7, end_of_metadata 0;
